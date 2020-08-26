@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 I'm Jan, a business informatics student from germany👨‍💻</div>  
+### 👋 I'm Jan, a business informatics student from germany👨‍💻  
   
 
 - 🌱 I’m 23 years old  
