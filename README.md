@@ -57,7 +57,7 @@
 
 
 ## Github Stats  
-![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=Jukera&show_icons=true&count_private=true)  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jukera&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
